@@ -11,11 +11,11 @@ It aims to help businesses make data-driven decisions by understanding which pro
 - Analyze regional sales trends   
 
 
-## Dataset
+### Dataset
 
 - **Source**: [Kaggle – Customer Shopping (Latest Trends) Dataset](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset)
 
-## **Tools & Technologies Used**
+### **Tools & Technologies Used**
 
 - **Python**: Pandas, Matplotlib
 - **Jupyter Notebook**: Exploratory Data Analysis (EDA)
