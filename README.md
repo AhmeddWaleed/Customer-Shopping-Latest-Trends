@@ -5,7 +5,7 @@ This project analyzes this data to uncover insights on customer behaviour, sales
 It aims to help businesses make data-driven decisions by understanding which products and regions drive the most sales.
 
 
-## **Project Objective**
+### **Project Objective**
 
 - Identify top-performing and underperforming products  
 - Analyze regional sales trends   
