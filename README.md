@@ -5,17 +5,19 @@ This project analyzes this data to uncover insights on customer behaviour, sales
 It aims to help businesses make data-driven decisions by understanding which products and regions drive the most sales.
 
 
-### **Project Objective**
+## **Project Objective**
 
 - Identify top-performing and underperforming products  
-- Analyze regional sales trends   
+- Analyze regional sales trends
+- Analyze consumer purchasing patterns over time.
+  
 
-
-### Dataset
+## Dataset
 
 - **Source**: [Kaggle – Customer Shopping (Latest Trends) Dataset](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset)
+  
 
-### **Tools & Technologies Used**
+## **Tools Used**
 
 - **Python**: Pandas, Matplotlib
 - **Jupyter Notebook**: Exploratory Data Analysis (EDA)
@@ -25,21 +27,15 @@ It aims to help businesses make data-driven decisions by understanding which pro
 ## Methodology
 
 1. **Data Cleaning**
-   - Removed duplicates and null values  
-  
-
+   
 2. **Exploratory Data Analysis (EDA)**
-   - Analyzed sales by region, product category, and time period  
+   - Analyzed sales by region and product category  
    - Examined profit margins and discount effects  
    - Identified seasonal patterns and sales peaks  
 
 3. **Visualization**
    - Created bar charts, line plots, and pie charts for better insight communication  
    - Built an interactive Power BI dashboard
-
-4. **Insight Generation**
-   - Derived key performance indicators (KPIs)  
-   - Summarized findings and suggested improvements
 
 
 ##  Visualization
@@ -49,15 +45,13 @@ It aims to help businesses make data-driven decisions by understanding which pro
 
 ## Key Insights
 
-- **The West region** generated the highest total sales (≈42% of total revenue)  
-- **High discounts (>20%)** reduced profit margins significantly  
-- **November–December** were peak sales months due to holiday promotions  
-- **Office Supplies** had high sales volume but lower profitability compared to Furniture  
+- **Montana** generated the highest total sales 
+- Female customers were less than males
+- **Clothes Category** had high sales volume and profitability 
 
 
 ## Recommendations
 
 - Optimize discount strategy to balance sales and profit  
-- Focus marketing on high-profit regions and categories  
-- Consider bundling low-profit items with top sellers  
-- Increase inventory before the holiday season to meet demand  
+- Focus marketing on high-profit regions and categories
+- Make marketing campaigns target more females
