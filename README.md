@@ -1,4 +1,4 @@
-# Customer-Shopping-Latest-Trends
+# Customer-Shopping-Latest-Trends (Python & Power BI)
 
 
 This project analyzes this data to uncover insights on customer behaviour, sales trends, product performance, and regional profitability.  
